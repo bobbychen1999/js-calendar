@@ -4,8 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Jiazhi Chen and Martin Zhang's group repository for CSE 330S module5
-* this project is a calendar website
+* Bobby Chen and Martin Zhang's calendar website
 
 ### How do I get set up? ###
 
@@ -38,6 +37,6 @@ This README would normally document whatever steps are necessary to get your app
 * Martin Zhang
 * Email: zhangzhehao@wustl.edu
 * Cell phone: 3146855464
-* Jiazhi Chen
+* Bobby Chen
 * Email: chen.jiazhi@wustl.edu
 * Cell phone: 3145564976
