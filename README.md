@@ -10,6 +10,7 @@ This README would normally document whatever steps are necessary to get your app
 
 * In a browser, type the url: 
 * http://ec2-18-222-151-162.us-east-2.compute.amazonaws.com/~martinzhang/mod5/calendar/calendarmain.html
+* Preferrably Chrome or FireFox
 * this should direct you to the calendar
 * You can register an account
 * or you can use username: test and password: test to log in
